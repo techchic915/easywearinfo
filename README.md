@@ -1,4 +1,5 @@
-🛍️ Easy Wear Wholesale Trends – Power BI Dashboard
+#🛍️ Easy Wear Wholesale Trends – Power BI Dashboard
+
 Overview:
 This project analyzes historical sales data from Easy Wear, a women’s wholesale fashion brand serving clients across the Caribbean and U.S. Using Power BI, I explored regional trends, size set performance, channel growth, and peak season dynamics to tell a clear, data-driven story of how Easy Wear operates and where it thrives.
 
